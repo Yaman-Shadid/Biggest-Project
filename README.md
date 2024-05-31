@@ -31,7 +31,7 @@ New features were created to enhance the predictive power of the model:
 We performed EDA to gain insights into the data distribution and relationships between variables. Key visualizations include:
 
 ### Histograms of Numerical Variables
-![Histograms of Numerical Variables](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/EDA/Correlation%20Heatmap%20of%20Selected%20Features.png)
+![Histograms of Numerical Variables](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/EDA/Histograms%20of%20numerical%20Variables.png)
 
 - **Number of Discharges**: Shows the distribution of discharges across facilities.
 - **Excess Readmission Ratio**: Displays the spread of readmission ratios.
@@ -41,7 +41,7 @@ We performed EDA to gain insights into the data distribution and relationships b
 - **Length of Stay**: Represents the length of stay distribution.
 
 ### Correlation Heatmap of Selected Features
-![Correlation Heatmap of Selected Features](Correlation%20Heatmap%20of%20Selected%20Features.png)
+![Correlation Heatmap of Selected Features](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/EDA/Correlation%20Heatmap%20of%20Selected%20Features.png)
 
 - Displays the correlations between key numerical features, showing how they relate to each other and to the `Excess Readmission Ratio`.
 
@@ -53,7 +53,7 @@ Two regression models were built to predict the `Excess Readmission Ratio`:
 ### Model Performance Comparison
 The models were evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
 
-![Model Performance Comparison](Model%20Performance%20Comparison.png)
+![Model Performance Comparison](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/End%20visualizations/Model%20Performance%20Comparison.png)
 
 - **Random Forest Regressor**: Achieved a high R² score of 0.99, indicating excellent predictive performance.
 - **Gradient Boosting Regressor**: Achieved an R² score of 0.85, performing less effectively than the Random Forest Regressor.
@@ -61,14 +61,14 @@ The models were evaluated using Mean Absolute Error (MAE), Mean Squared Error (M
 ### Feature Importance
 The importance of different features was analyzed using the Random Forest Regressor.
 
-![Feature Importances - Random Forest Regressor](Feature%20Importances%20-%20Random%20Forest%20Regressor.png)
+![Feature Importances - Random Forest Regressor](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/End%20visualizations/Feature%20Importances%20-%20Random%20Forest%20Regressor.png)
 
 - **Predicted Readmission Rate** and **Expected Readmission Rate** were the most significant features.
 
 ### Actual vs. Predicted Values
 The scatter plot shows the relationship between the actual and predicted readmission rates for the best-performing model.
 
-![Actual vs. Predicted Excess Readmission Ratio - Random Forest Regressor](Actual%20vs.%20Predicted%20Excess%20Readmission%20Ratio%20-%20Random%20Forest%20Regressor.png)
+![Actual vs. Predicted Excess Readmission Ratio - Random Forest Regressor](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/End%20visualizations/Actual%20vs.%20Predicted%20Excess%20Readmission%20Ratio%20-%20Random%20Forest%20Regressor.png)
 
 - The plot demonstrates that the Random Forest Regressor predicts the `Excess Readmission Ratio` very accurately.
 
