@@ -28,7 +28,7 @@ New features were created to enhance the predictive power of the model:
 - One-hot encoding was applied to categorical variables.
 
 ## Exploratory Data Analysis (EDA)
-We performed EDA to gain insights into the data distribution and relationships between variables. Key visualizations include:
+I performed EDA to gain insights into the data distribution and relationships between variables. Key visualizations include:
 
 ### Histograms of Numerical Variables
 ![Histograms of Numerical Variables](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/EDA/Histograms%20of%20numerical%20Variables.png)
@@ -73,7 +73,7 @@ The scatter plot shows the relationship between the actual and predicted readmis
 - The plot demonstrates that the Random Forest Regressor predicts the `Excess Readmission Ratio` very accurately.
 
 ## Recommendations
-Based on the analysis, we recommend the following:
+Based on the analysis, I recommend the following:
 1. **Focus on Key Predictors**: Monitor `Predicted Readmission Rate` and `Expected Readmission Rate` closely to identify high-risk patients.
 2. **Interventions for High-Risk Patients**: Implement targeted interventions such as follow-up appointments, patient education, and home visits for patients with high predicted readmission rates.
 3. **Policy Changes**: Develop policies to improve patient management and care transitions, aiming to lower the predicted and expected readmission rates.
