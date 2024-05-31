@@ -43,7 +43,7 @@ I performed EDA to gain insights into the data distribution and relationships be
 ### Correlation Heatmap of Selected Features
 ![Correlation Heatmap of Selected Features](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/EDA/Correlation%20Heatmap%20of%20Selected%20Features.png)
 
-- Identifies strong correlations between features like Length of Stay and Number of Readmissions, guiding feature selection for modeling.
+- **Correlation Heatmap**: Identifies strong correlations between features like Length of Stay and Number of Readmissions, guiding feature selection for modeling.
 
 ## Modeling
 Two regression models were built to predict the `Excess Readmission Ratio`:
