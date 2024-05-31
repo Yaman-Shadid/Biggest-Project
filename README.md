@@ -31,7 +31,7 @@ New features were created to enhance the predictive power of the model:
 We performed EDA to gain insights into the data distribution and relationships between variables. Key visualizations include:
 
 ### Histograms of Numerical Variables
-![Histograms of Numerical Variables]("[D:\Github\Repos\Biggest-Project\Visualizations\EDA\Histograms of numerical Variables.png](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/EDA/Correlation%20Heatmap%20of%20Selected%20Features.png)")
+![Histograms of Numerical Variables](https://github.com/Yaman-Shadid/Predictive-Analytics-for-Hospital-Readmissions/blob/main/Visualizations/EDA/Correlation%20Heatmap%20of%20Selected%20Features.png)
 
 - **Number of Discharges**: Shows the distribution of discharges across facilities.
 - **Excess Readmission Ratio**: Displays the spread of readmission ratios.
