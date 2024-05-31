@@ -79,8 +79,30 @@ Based on the analysis, I recommend the following:
 3. **Policy Changes**: Develop policies to improve patient management and care transitions, aiming to lower the predicted and expected readmission rates.
 4. **Continuous Monitoring**: Use the model to continuously monitor patient readmission risks and adjust care plans accordingly.
 
-## Deployment
-To deploy the model, integrate it into the hospital’s Electronic Health Record (EHR) system to provide real-time readmission risk scores for discharged patients. Additionally, create an interactive dashboard using tools like Tableau or Power BI to visualize patient readmission risks and monitor intervention outcomes.
-
 ## Conclusion
 The project successfully developed a predictive model for hospital readmissions, providing valuable insights and recommendations to reduce readmission rates and improve patient outcomes.
+
+## Additional Information
+
+In October 2012, CMS began reducing Medicare payments for subsection(d) hospitals with excess readmissions under the Hospital Readmissions Reduction Program (HRRP).
+
+Excess readmissions are measured by a ratio, calculated by dividing a hospital's predicted rate of readmissions for heart attack (AMI), heart failure (HF), pneumonia, chronic obstructive pulmonary disease (COPD), hip/knee replacement (THA/TKA), and coronary artery bypass graft surgery (CABG) by the expected rate of readmissions, based on an average hospital with similar patients.
+
+**Source:** [CMS Hospital Readmissions Reduction Program](https://data.cms.gov/provider-data/dataset/9n3s-kdb3#data-table)
+
+**About this resource:**
+
+- Rows: 18774
+- Columns: 12
+- File Size: 2 MB
+
+Additional information:
+- **Modified:** January 8, 2024
+- **Released:** April 24, 2024
+- **Issued:** December 10, 2020
+- **Publisher:** Centers for Medicare & Medicaid Services (CMS)
+- **Identifier:** 9n3s-kdb3
+- **Contact:** Hospital Compare
+- **Contact URL:** [CMS Quality Support](https://cmsqualitysupport.servicenowservices.com/qnet_qa)
+- **Public Access Level:** public
+- **Homepage URL:** [CMS Data](https://data.cms.gov/provider-data/dataset/9n3s-kdb3)
