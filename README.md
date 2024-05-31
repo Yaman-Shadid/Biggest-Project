@@ -80,9 +80,9 @@ Based on the analysis, I recommend the following:
 4. **Continuous Monitoring**: Use the model to continuously monitor patient readmission risks and adjust care plans accordingly.
 
 ## Conclusion
-The project successfully developed a predictive model for hospital readmissions, providing valuable insights and recommendations to reduce readmission rates and improve patient outcomes.
+This project successfully developed a predictive model for hospital readmissions using comprehensive data analysis and advanced machine-learning techniques. The Random Forest Regressor performed exceptionally well, identifying key predictors like Predicted and Expected Readmission Rates. The insights gained from exploratory data analysis and feature engineering highlight the factors influencing readmission rates. These findings can help healthcare providers implement targeted interventions and policy changes, ultimately reducing readmission rates, improving patient outcomes, and optimizing resource allocation.
 
-## Additional Information
+## Additional Information Regarding Dataset
 
 In October 2012, CMS began reducing Medicare payments for subsection(d) hospitals with excess readmissions under the Hospital Readmissions Reduction Program (HRRP).
 
